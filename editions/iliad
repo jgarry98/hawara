@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iliad</title>
+        <author>James Garry</author>
+        <author>Zach Sowerby</author>
+      </titleStmt>
+      <editionStmt>
+        <p>HMT edition</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Unpublished</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="2">
+        <l n="680">των <w>δ<gap></gap></w> <w><gap></gap><unclear>ρ</unclear>ι<gap></gap>κοντα</w> γλαφυραὶ νεες εστιχοωντο-</l>
+        <l n="681"><w>ν<gap></gap>ν</w> αῦ <w><gap></gap><unclear>οὺς</unclear></w> όσσοι το Πελασγικον <gap></gap> <placeName n="urn:cite2:hmt:place:place114">Αργος</placeName> έναιον</l>
+        <l n="682">οἵ τ<gap></gap>οἱ τ' <placeName n="urn:cite2:hmt:place:place375">Αλόπην</placeName> - οἱ τε Τρηχειν' ενεμοντο</l>
+        <l n="683">οἱ τ <w><gap></gap>ον</w> <placeName n="urn:cite2:hmt:place:place375">Φθειην</placeName> ήδ' <placeName n="urn:cite2:hmt:place:place3">Ελλαδα</placeName> καλλιγύναικα-</l>
+        <l n="684"><w>Μυρμ<gap></gap><unclear>ν</unclear>ες</w> δε καλεῦντο καὶ <rs type ="ethnic" n="urn:cite2:hmt:place:place3">Ἑλληνες</rs> και <rs type ="ethnic" n="urn:cite2:hmt:place:place96">Ἀχαιοί</rs></l>
+        <l n="685"><w>τω<gap></gap></w> <gap></gap>  <w><gap></gap>ντήκοντα</w> νεων- ην ὰρχος <persName n="urn:cite2:hmt:pers:pers1">Άχιλλευς</persName></l>
+        <l n="686"><w>α<gap></gap></w> <gap></gap> <w><gap></gap>ολεμοιο</w> δυσηχέος εμνωοντο</l>
+        <l n="687"><w><gap></gap>ν</w> <gap></gap> <w><unclear>τ</unclear>ίς</w> σφιν επι στιχας <w>(<gap></gap>σαιτο</w>-</l>
+        <l n="701"><w>κ<gap>αι</gap></w> δομος <w>η<unclear>μ</unclear>ιτελης</w> τον δ <w>εκτ<gap></gap></w> Δαρδανος α_νηρ</l>
+        <l n="702">νηος <w>αποθ<gap></gap>ωσκοντα</w> πολυ πρωτιστον <rs type="ethnic" n="urn:cite2:hmt:place:place96">Αχαιῶν</rs></l>
+        <l n="703">ουδε μεν <w>ο<gap></gap></w> οι αναρχοι εσαν πόθεον γὲ μεν αρχον</l>
+        <l n="704">αλλά <w>σφεα<unclear>ς</unclear></w> <w><gap></gap>οσμησε</w> <persName n="urn:cite2:hmt:pers:pers747">Ποδαρκης</persName> ὅζος <persName n="urn:cite2:hmt:pers:pers83">Άρηος</persName></l>
+        <l n="705"><persName n="urn:cite2:hmt:pers:pers924">Ιφικλου</persName> υῖος <w><unclear>π</unclear>ολυμηλου</w> <persName n="urn:cite2:hmt:pers:pers924">Φυ_λακιδαο</persName></l>
+        <l n="706">αυτοκασιγνητος μεγαθυ_μου <persName n="urn:cite2:hmt:pers:pers288">Πρωτεσιλάου</persName></l>
+        <l n="707">οπλοτερος γενεῃ ὁ δ αρα πρότερος και αρείων</l>
+        <l n="708">ἡρως <persName n="urn:cite2:hmt:pers:pers288"><w>Πρωτεσ<unclear>ι</unclear>λαος</w></persName> αρηϊος ουδέ τι λαοι</l>
+        <l n="709">δευονθ᾽ ἡγεμονος ποθεον γὲ μεν εσθλον εοντα</l>
+        <l n="719">επτα νεῶν <w><gap></gap>ται</w> δ' εν εκαστῃ πεντηκοντα</l>
+        <l n="720">εμβέβασαν <w>τό<unclear>ξ</unclear>ων=</w> ευ ειδοτες ῖφι μάχεσθαι-</l>
+        <l n="721">αλλ' ὁ μεν <gap>ε<unclear>ν</unclear></gap> <w><unclear>ν</unclear>ήσῳ</w> <w>κ<unclear>ε</unclear><gap></gap><unclear>τ</unclear>ο</w> κρατερ' άλγεα πασχων-</l>
+        <l n="722"><rs type="ethnic" n="urn:cite2:hmt:place:place96">Λήμνῳ</rs> εν ηγαθέῃ <gap></gap> μιν λιπον ὑιες <rs type ="ethnic" n="urn:cite2:hmt:place:place96">Αχαιῶν</rs></l>
+        <l n="723">ελκεϊ <w>μοχ<unclear>θ</unclear>ιζοντα</w> <w>κα<gap></gap>ῳ</w> ολοόφρονος ὕδρου-</l>
+        <l n="724">ενθ ὅ γε <w>κει<unclear>τ</unclear></w> <w><gap></gap>έων</w> <w><unclear>τάχ</unclear>α</w> δε μνησεσθαι <choice><sic>εμελλεν</sic><corr>εμελλον</corr></choice></l>
+        <l n="725"><rs type="ethnic" n="urn:cite2:hmt:place:place114"><w>Αρ<unclear>γ</unclear>ειοι</w></rs> παρα <w><gap></gap><unclear>υσι</unclear></w> <persName n="urn:cite2:hmt:pers:pers291">Φιλοκτηταο</persName> ανακτος</l>
+        <l n="726">ουδὲ μεν <w>ο<unclear>υδ</unclear></w> <w><unclear>οι</unclear></w> αναρχοι εσαν πόθεον γε μεν ὰρχον-</l>
+        <l n="727">αλλα <persName n="urn:cite2:hmt:pers:pers751">Μεδων</persName> <w><gap></gap><unclear>οσ</unclear>μησεν</w> <persName n="urn:cite2:hmt:pers:pers150"><w><unclear>Ο</unclear>ϊληος</w></persName> νοθος υιος</l>
+        <l n="728">τον ρ᾽ ετεκεν <persName n="urn:cite2:hmt:pers:pers752"><w><gap></gap>νη</w></persName> !!ϋπ᾽ <persName n="urn:cite2:hmt:pers:pers150">Οϊλῆϊ</persName> πτολιπόρθῳ-</l>
+        <l n="729">οι δ ειχον <placeName n="urn:cite2:hmt:place:place387"><w>Τρ<unclear>ν</unclear></w></placeName> και <placeName n="urn:cite2:hmt:place:place388"><w>Ι<unclear>θώ</unclear>μην</w></placeName> κλωμακοεσσαν-</l>
+        <l n="730">οἵ τ᾽ έχον <placeName n="urn:cite2:hmt:place:place230"><w>Οιχ<gap></gap></w></placeName> πολιν <persName n="urn:cite2:hmt:pers:pers677">Ευρύτου</persName> Οιχαλιῆος-</l>
+        <l n="731">των αῦθ᾽ <w>ηγε<unclear>ισ</unclear><gap></gap>ην</w> <persName n="urn:cite2:hmt:pers:pers445"><w>Ασκλη<unclear>π</unclear>ιου</w></persName> δυο παιδε</l>
+        <l n="741">υἱος <persName n="urn:ctie2:hmt:pers:pers148"><w>Πειριθοο<gap></gap></w></persName> <w><unclear>τ</unclear>ον</w> α_θανατος τεκετο <persName n="urn:ctie2:hmt:pers:pers8">Ζε<gap></gap></persName></l>
+        <l n="742">τόν ρ' υπο <persName n="urn:ctie2:hmt:pers:pers148"><w>Πειριθοῳ<gap></gap></w></persName> τεκετο κλυτος <persName n="urn:ctie2:hmt:pers:pers152">Ιπποδαμεια</persName></l>
+        <l n="743">ηματι τῷ ὁτε Φῆρας ετι_σατο λαχνήεντας-</l>
+        <l n="744">τους δ' εκ <placeName n="urn:cite2:hmt:place:place57"><w>Πηλ<gap></gap>ου</w></placeName> ὦσε και Αιθικεσσι <w>πέλα<unclear>σ</unclear>σεν</w>:</l>
+        <l n="745">ου κ' ο!!!ιος- ἁμα τῷ γε <persName n="urn:ctie2:hmt:pers:pers548">Λεοντὲυς</persName> ὄζος <persName n="urn:ctie2:hmt:pers:pers83">Αρηος</persName></l>
+        <l n="746">υιος ϋπερθύ_μοιο <persName n="urn:ctie2:hmt:pers:pers357">Κορώνου Καινειδαο</persName>-</l>
+        <l n="747">τοις δ' αμα τεσσαρακοντα μελαιναι νηες ἕποντο</l>
+        <l n="748"><persName n="urn:ctie2:hmt:pers:pers753">Γουνευς</persName> δ' εκ <placeName n="urn:cite2:hmt:place:place57">Κύφου</placeName>  ῆγε δυω και <w><unclear>ε</unclear>ἴκοσι</w> νῆας</l>
+        <l n="749">τω δ' <choice><sic>Αινειῆνες</sic><corr>Αινιῆνες</corr></choice>!!! ἕποντο μενεπτολεμοι τε Περραιβοι!!</l>
+        <l n="750">οἱ περὶ <placeName n="urn:cite2:hmt:place:place57">Δωδώνην</placeName> δυσχείμερον οικί εθεντο,</l>
+        <l n="751">οἵ τ' αμφ ϊμερτον Τιταρήσσιὸν εργ' ενέμοντο</l>
+        <l n="752">ὅς ρ' ες <placeName n="urn:cite2:hmt:place:place394">Πηνειον</placeName> προΐει καλλίρροον υ_δωρ-</l>
+        <l n="753">ουδ' ὅ γε <placeName n="urn:cite2:hmt:place:place394"><choice><sic>Πηνειῶ</sic><corr>Πηνειῷ</corr></choice></placeName> συμμισγεται αργυροδί_νῃ</l>
+        <l n="762">αυτων ἠδ' ιππων οἱ ἅμ' <persName n="urn:cite2:hmt:pers.v1:pers22"><persName n="urn:cite2:hmt:pers.v1:pers119"><choice><sic>Ατρειδησιν</sic><corr>Ατρειδῃσιν</corr></choice></persName></persName> ἕποντο</l>
+        <l n="763">ιπποι μεν γαρ αρισται έσαν <persName n="urn:ctie2:hmt:pers:pers443">Φηρητιαδαο</persName></l>
+        <l n="764">τας <persName n="urn:ctie2:hmt:pers:pers443">Εύμηλος</persName> έλαυνε ποδωκεας ορνιθας ὣς</l>
+        <l n="765">ό τριχας οἰέτεας !!!!!!!!!- σταφύλῃ επι νῶτον εεισας</l>
+        <l n="766">τας εν Πηρειῃ!!! θρέψ' αργυρότοξος <persName n="urn:ctie2:hmt:pers:pers40">Απολλων</persName></l>
+        <l n="767">αμφω θ\ηλειας, φοβον <persName n="urn:ctie2:hmt:pers:pers83">Α_ρηος</persName> φορεόυσας-</l>
+        <l n="768">ανδρων αῦ μεγ' αριστος έην Τελαμωνιος <persName n="urn:ctie2:hmt:pers:pers127">Αιας</persName></l>
+        <l n="769">οφρ' <persName n="urn:ctie2:hmt:pers:pers1">Αχιλλευς</persName> μηνιεν- ὁ γαρ πολυφέρτατος ηεν,</l>
+        <l n="770">ιπποι θ' οἱ φορέεσκον αμύμονα <persName n="urn:ctie2:hmt:pers:pers1">Πηλειωνα</persName></l>
+        <l n="771">αλλ' ὁ μεν εν νηεσσι <w>κ<unclear>ο</unclear>ρωνίσι</w> ποντοπo!!!ροισι</l>
+        <l n="772">κειτ'  <w>ἀπ<unclear></unclear>μηνισας</w> <persName n="urn:ctie2:hmt:pers:pers22">Αγαμεμνονι</persName> ποιμενι λαων</l>
+        <l n="773"><persName n="urn:ctie2:hmt:pers:pers22">Ατρειδῃ</persName>- λαοι <w><unclear>δε</unclear></w> παρα ρηγμεῖνι θαλασσης</l>
+        <l n="774">δίσκοισιν τερποντο και <w>αιγανέῃσ<gap></gap>ν</w> ιέντες</l>
+        <l n="775">τοξοισίν θ' ιπποι δε παρ' αρμασιν οἵσιν έκαστος</l>
+        <l n="783"> <w><gap></gap>ν</w> Αρίμοις??? <w><unclear>ὁ</unclear>θι</w> φασι <persName n="urn:ctie2:hmt:pers:pers22">Τυφωεος</persName> έμμεναι ευνας-</l>
+        <l n="784"><w><gap></gap><unclear>ς</unclear></w> αρα τῶν ϋπο ποσσὶ <w>μέ<unclear>γ</unclear>α</w> στεναχίζετο γαῖα</l>
+        <l n="785"><w><unclear>ἐρ</unclear>χομένων</w> μαλα δ ῶκα διέπρησσον πεδιοιο-</l>
+        <l n="786"><rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρωσιν</rs> δ αγγελος ηλθε ποδήνεμος ωκεα <persName n="urn:cite2:hmt:pers.v1:pers282">Ι=ρις</persName></l>
+        <l n="787"><w><gap></gap>αρ</w> <persName n="urn:ctie2:hmt:pers:pers8">Διος</persName> αιγιόχοιο σὺν <choice><sic>αγγελιη</sic><corr>αγγελιῃ</corr></choice> <w>ἀλεγε<unclear>ι</unclear>νῃ</w> :</l> (STOP)
+        <l n="788">οἳ δ᾽ ἀγορὰς ἀγόρευον ἐπὶ Πριάμοιο θύρῃσι</l>
+        <l n="789">πάντες ὁμηγερέες ἠμὲν νέοι ἠδὲ γέροντες:</l>
+        <l n="790">ἀγχοῦ δ᾽ ἱσταμένη προσέφη πόδας ὠκέα Ἶρις:</l>
+        <l n="791">εἴσατο δὲ φθογγὴν υἷϊ Πριάμοιο Πολίτῃ,</l>
+        <l n="792">ὃς Τρώων σκοπὸς ἷζε ποδωκείῃσι πεποιθὼς</l>
+        <l n="793">τύμβῳ ἐπ᾽ ἀκροτάτῳ Αἰσυήταο γέροντος,</l>
+        <l n="794">δέγμενος ὁππότε ναῦφιν ἀφορμηθεῖεν Ἀχαιοί:</l>
+        <l n="795">τῷ μιν ἐεισαμένη προσέφη πόδας ὠκέα Ἶρις:</l>
+        <l n="796">‘ὦ γέρον αἰεί τοι μῦθοι φίλοι ἄκριτοί εἰσιν,</l>
+        <l n="797">ὥς ποτ᾽ ἐπ᾽ εἰρήνης: πόλεμος δ᾽ ἀλίαστος ὄρωρεν.</l>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+    </body>
+  </text>
+</TEI>
